@@ -1,20 +1,7 @@
-<div style="background: linear-gradient(90deg, #00B8D9, #00ACC1); padding: 40px 20px; border-radius: 15px; text-align: center; animation: fadeIn 2s ease-in-out;">
-  <h1 style="text-align:center; color:white; font-size:44px; margin-bottom: 10px">
-    Light vs Dark Theme Website Performance
-  </h1>
-  <h3 style="text-align:center; color:#ECEFF1; font-weight:normal; font-size: 20px;">
-    Analyzing User Behavior Insights & A/B Testing Website Metrics with Python
-  </h3>
-</div>
+# 🌗 Light vs Dark Theme Website Performance
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
+### Analyzing User Behavior Insights & A/B Testing Website Metrics with Python
 
-<br>
 
 This project analyzes website performance metrics to compare "Light Theme" and "Dark Theme" using a dataset (`data/abt.csv`) with 1000 user records. Built in Python within a Jupyter Notebook (`abt.ipynb`), it leverages `pandas`, `numpy`, `scipy`, `seaborn`, `matplotlib`, and `scikit-learn` for data processing, statistical testing, and visualizations.
 
